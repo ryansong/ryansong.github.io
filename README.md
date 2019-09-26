@@ -1,6 +1,6 @@
 # Ryan's Blog
 
-[This repository](ryansong.github.io) is a blog(Git Page) for [Ryan Song](https://github.com/ryansong).
+[This repository](ryansong.github.io) is a blog(Git Page) for [Ryan Song](https://ryansong.github.io).
 
 
 
